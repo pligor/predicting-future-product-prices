@@ -1,0 +1,22 @@
+<project default="jar">
+  <path id="project.class.path">
+    <pathelement path="${java.class.path}/"/>
+    <pathelement path="thirdparty/junit-4.10.jar"/>
+  </path>
+
+   <target name="compile">
+      <mkdir dir="build"/>
+      <javac srcdir="src" destdir="build"  debug="true" >
+           <classpath refid="project.class.path" />
+      </javac>
+      <copy todir="build" >
+          <fileset dir="src" />
+      </copy>
+   </target>
+   <target name="jar" depends="compile">
+      <mkdir dir="jar"/>
+      <jar destfile="jar/EasyJccKit.jar" basedir="build">
+      </jar>
+   </target>
+</project>
+

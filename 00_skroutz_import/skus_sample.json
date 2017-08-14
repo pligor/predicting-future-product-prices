@@ -1,0 +1,53 @@
+{
+  "skus": [
+    {
+      "id": 8864706,
+      "ean": "",
+      "pn": "SM-J510FN",
+      "name": "Galaxy J5 2016 (16GB)",
+      "display_name": "Samsung Galaxy J5 2016 (16GB)",
+      "category_id": 40,
+      "first_product_shop_info": null,
+      "click_url": null,
+      "price_max": 229,
+      "price_min": 138,
+      "reviewscore": 4.52161,
+      "shop_count": 73,
+      "plain_spec_summary": "Οθόνη: 5.2\", RAM: 2 GB, Μνήμη: 16 GB, Κάμερα: 13 MP, Δίκτυο: 4G, Πυρήνες CPU: 4, SIM: Single, Μπαταρία: 3100 mAh",
+      "manufacturer_id": 28,
+      "future": false,
+      "reviews_count": 324,
+      "virtual": false,
+      "images": {
+        "main": "https://c.scdn.gr/images/sku_main_images/008864/8864706/medium_20160801164957_samsung_galaxy_j5_2016_16gb.jpeg",
+        "alternatives": [
+          "https://d.scdn.gr/images/sku_images/015730/15730208/20160801164736_c456731c.jpeg",
+          "https://c.scdn.gr/images/sku_images/015730/15730240/20160801165716_2c482704.jpeg",
+          "https://b.scdn.gr/images/sku_images/015730/15730209/20160801164738_123b51da.jpeg",
+          "https://a.scdn.gr/images/sku_images/015730/15730222/20160801164958_2fdc7ce2.jpeg",
+          "https://c.scdn.gr/images/sku_images/014942/14942879/20160420160026_407a1b07.jpeg",
+          "https://d.scdn.gr/images/sku_images/015730/15730212/20160801164800_d6d8f83a.jpeg",
+          "https://a.scdn.gr/images/sku_images/015730/15730211/20160801164758_0ed8fe00.jpeg",
+          "https://a.scdn.gr/images/sku_images/015730/15730210/20160801164753_a352a7f9.jpeg",
+          "https://b.scdn.gr/images/sku_images/014942/14942875/20160420160022_80e8be97.jpeg",
+          "https://c.scdn.gr/images/sku_images/014942/14942874/20160420160021_4e83b865.jpeg",
+          "https://b.scdn.gr/images/sku_images/015730/15730230/20160801165237_05e00874.jpeg",
+          "https://b.scdn.gr/images/sku_images/015730/15730198/20160801164620_efd64449.jpeg",
+          "https://d.scdn.gr/images/sku_images/015730/15730203/20160801164643_3e3f8a8c.jpeg",
+          "https://c.scdn.gr/images/sku_images/015730/15730204/20160801164646_5bc87b2f.jpeg"
+        ]
+      },
+      "web_uri": "http://skroutz.gr/s/8864706/Samsung-Galaxy-J5-2016-16GB.html",
+      "comparable": true
+    }
+  ],
+  "meta": {
+    "ordered_by": "popularity",
+    "pagination": {
+      "total_results": 709,
+      "total_pages": 709,
+      "page": 1,
+      "per": 1
+    }
+  }
+}

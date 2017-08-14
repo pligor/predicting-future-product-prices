@@ -1,0 +1,1628 @@
+{
+  "history": {
+    "average": [
+      {
+        "date": "2016-11-20",
+        "price": 192.66
+      },
+      {
+        "date": "2016-11-21",
+        "price": 189.53
+      },
+      {
+        "date": "2016-11-22",
+        "price": 193.52
+      },
+      {
+        "date": "2016-11-23",
+        "price": 190.63
+      },
+      {
+        "date": "2016-11-24",
+        "price": 191.14
+      },
+      {
+        "date": "2016-11-25",
+        "price": 190.84
+      },
+      {
+        "date": "2016-11-26",
+        "price": 191.56
+      },
+      {
+        "date": "2016-11-27",
+        "price": 191.04
+      },
+      {
+        "date": "2016-11-28",
+        "price": 191.78
+      },
+      {
+        "date": "2016-11-29",
+        "price": 192.74
+      },
+      {
+        "date": "2016-11-30",
+        "price": 196.26
+      },
+      {
+        "date": "2016-12-01",
+        "price": 193.99
+      },
+      {
+        "date": "2016-12-02",
+        "price": 193.21
+      },
+      {
+        "date": "2016-12-03",
+        "price": 192.1
+      },
+      {
+        "date": "2016-12-04",
+        "price": 192.29
+      },
+      {
+        "date": "2016-12-05",
+        "price": 191.85
+      },
+      {
+        "date": "2016-12-06",
+        "price": 189.28
+      },
+      {
+        "date": "2016-12-07",
+        "price": 189.24
+      },
+      {
+        "date": "2016-12-08",
+        "price": 189.34
+      },
+      {
+        "date": "2016-12-09",
+        "price": 187.47
+      },
+      {
+        "date": "2016-12-10",
+        "price": 187.36
+      },
+      {
+        "date": "2016-12-11",
+        "price": 187.94
+      },
+      {
+        "date": "2016-12-12",
+        "price": 187.07
+      },
+      {
+        "date": "2016-12-13",
+        "price": 188.63
+      },
+      {
+        "date": "2016-12-14",
+        "price": 188.58
+      },
+      {
+        "date": "2016-12-15",
+        "price": 188.07
+      },
+      {
+        "date": "2016-12-16",
+        "price": 186.67
+      },
+      {
+        "date": "2016-12-17",
+        "price": 185.62
+      },
+      {
+        "date": "2016-12-18",
+        "price": 185.52
+      },
+      {
+        "date": "2016-12-19",
+        "price": 185.36
+      },
+      {
+        "date": "2016-12-20",
+        "price": 184.98
+      },
+      {
+        "date": "2016-12-21",
+        "price": 186.42
+      },
+      {
+        "date": "2016-12-22",
+        "price": 186.35
+      },
+      {
+        "date": "2016-12-23",
+        "price": 186.42
+      },
+      {
+        "date": "2016-12-24",
+        "price": 187.24
+      },
+      {
+        "date": "2016-12-25",
+        "price": 188.64
+      },
+      {
+        "date": "2016-12-26",
+        "price": 185.8
+      },
+      {
+        "date": "2016-12-27",
+        "price": 186.15
+      },
+      {
+        "date": "2016-12-28",
+        "price": 187.06
+      },
+      {
+        "date": "2016-12-29",
+        "price": 188.09
+      },
+      {
+        "date": "2016-12-30",
+        "price": 186.72
+      },
+      {
+        "date": "2016-12-31",
+        "price": 185.11
+      },
+      {
+        "date": "2017-01-01",
+        "price": 186.66
+      },
+      {
+        "date": "2017-01-02",
+        "price": 186.79
+      },
+      {
+        "date": "2017-01-03",
+        "price": 186.22
+      },
+      {
+        "date": "2017-01-04",
+        "price": 188.79
+      },
+      {
+        "date": "2017-01-05",
+        "price": 184.49
+      },
+      {
+        "date": "2017-01-06",
+        "price": 183.61
+      },
+      {
+        "date": "2017-01-07",
+        "price": 183.39
+      },
+      {
+        "date": "2017-01-08",
+        "price": 185.44
+      },
+      {
+        "date": "2017-01-09",
+        "price": 185.39
+      },
+      {
+        "date": "2017-01-10",
+        "price": 183.48
+      },
+      {
+        "date": "2017-01-11",
+        "price": 182.88
+      },
+      {
+        "date": "2017-01-12",
+        "price": 181.66
+      },
+      {
+        "date": "2017-01-13",
+        "price": 180.82
+      },
+      {
+        "date": "2017-01-14",
+        "price": 180.03
+      },
+      {
+        "date": "2017-01-15",
+        "price": 179.74
+      },
+      {
+        "date": "2017-01-16",
+        "price": 179.45
+      },
+      {
+        "date": "2017-01-17",
+        "price": 178.54
+      },
+      {
+        "date": "2017-01-18",
+        "price": 177.6
+      },
+      {
+        "date": "2017-01-19",
+        "price": 178.55
+      },
+      {
+        "date": "2017-01-20",
+        "price": 176.81
+      },
+      {
+        "date": "2017-01-21",
+        "price": 175.66
+      },
+      {
+        "date": "2017-01-22",
+        "price": 175.76
+      },
+      {
+        "date": "2017-01-23",
+        "price": 176.06
+      },
+      {
+        "date": "2017-01-24",
+        "price": 176.76
+      },
+      {
+        "date": "2017-01-25",
+        "price": 176.73
+      },
+      {
+        "date": "2017-01-26",
+        "price": 177.1
+      },
+      {
+        "date": "2017-01-27",
+        "price": 175.11
+      },
+      {
+        "date": "2017-01-28",
+        "price": 174.62
+      },
+      {
+        "date": "2017-01-29",
+        "price": 174.51
+      },
+      {
+        "date": "2017-01-30",
+        "price": 174.65
+      },
+      {
+        "date": "2017-01-31",
+        "price": 173.57
+      },
+      {
+        "date": "2017-02-01",
+        "price": 173.09
+      },
+      {
+        "date": "2017-02-02",
+        "price": 173.13
+      },
+      {
+        "date": "2017-02-03",
+        "price": 172.77
+      },
+      {
+        "date": "2017-02-04",
+        "price": 172.72
+      },
+      {
+        "date": "2017-02-05",
+        "price": 171.67
+      },
+      {
+        "date": "2017-02-06",
+        "price": 172.66
+      },
+      {
+        "date": "2017-02-07",
+        "price": 172.15
+      },
+      {
+        "date": "2017-02-08",
+        "price": 171.14
+      },
+      {
+        "date": "2017-02-09",
+        "price": 171.68
+      },
+      {
+        "date": "2017-02-10",
+        "price": 172.13
+      },
+      {
+        "date": "2017-02-11",
+        "price": 170.63
+      },
+      {
+        "date": "2017-02-12",
+        "price": 170.37
+      },
+      {
+        "date": "2017-02-13",
+        "price": 172.04
+      },
+      {
+        "date": "2017-02-14",
+        "price": 173.71
+      },
+      {
+        "date": "2017-02-15",
+        "price": 169.23
+      },
+      {
+        "date": "2017-02-16",
+        "price": 168.9
+      },
+      {
+        "date": "2017-02-17",
+        "price": 169.34
+      },
+      {
+        "date": "2017-02-18",
+        "price": 168.95
+      },
+      {
+        "date": "2017-02-19",
+        "price": 170.72
+      },
+      {
+        "date": "2017-02-20",
+        "price": 171.33
+      },
+      {
+        "date": "2017-02-21",
+        "price": 169.97
+      },
+      {
+        "date": "2017-02-22",
+        "price": 167.35
+      },
+      {
+        "date": "2017-02-23",
+        "price": 167.24
+      },
+      {
+        "date": "2017-02-24",
+        "price": 166.14
+      },
+      {
+        "date": "2017-02-25",
+        "price": 166.59
+      },
+      {
+        "date": "2017-02-26",
+        "price": 167.86
+      },
+      {
+        "date": "2017-02-27",
+        "price": 167.6
+      },
+      {
+        "date": "2017-02-28",
+        "price": 168.32
+      },
+      {
+        "date": "2017-03-01",
+        "price": 167
+      },
+      {
+        "date": "2017-03-02",
+        "price": 166.96
+      },
+      {
+        "date": "2017-03-03",
+        "price": 167.27
+      },
+      {
+        "date": "2017-03-04",
+        "price": 165.81
+      },
+      {
+        "date": "2017-03-05",
+        "price": 165.37
+      },
+      {
+        "date": "2017-03-06",
+        "price": 165.39
+      },
+      {
+        "date": "2017-03-07",
+        "price": 165.13
+      },
+      {
+        "date": "2017-03-08",
+        "price": 166.26
+      },
+      {
+        "date": "2017-03-09",
+        "price": 165.09
+      },
+      {
+        "date": "2017-03-10",
+        "price": 164.24
+      },
+      {
+        "date": "2017-03-11",
+        "price": 162.86
+      },
+      {
+        "date": "2017-03-12",
+        "price": 162.98
+      },
+      {
+        "date": "2017-03-13",
+        "price": 162.35
+      },
+      {
+        "date": "2017-03-14",
+        "price": 161.94
+      },
+      {
+        "date": "2017-03-15",
+        "price": 160.79
+      },
+      {
+        "date": "2017-03-16",
+        "price": 160.89
+      },
+      {
+        "date": "2017-03-17",
+        "price": 161.91
+      },
+      {
+        "date": "2017-03-18",
+        "price": 162.51
+      },
+      {
+        "date": "2017-03-19",
+        "price": 161.66
+      },
+      {
+        "date": "2017-03-20",
+        "price": 162.31
+      },
+      {
+        "date": "2017-03-21",
+        "price": 162.02
+      },
+      {
+        "date": "2017-03-22",
+        "price": 162.18
+      },
+      {
+        "date": "2017-03-23",
+        "price": 162.31
+      },
+      {
+        "date": "2017-03-24",
+        "price": 162.91
+      },
+      {
+        "date": "2017-03-25",
+        "price": 162.58
+      },
+      {
+        "date": "2017-03-26",
+        "price": 162.86
+      },
+      {
+        "date": "2017-03-27",
+        "price": 162.18
+      },
+      {
+        "date": "2017-03-28",
+        "price": 163.9
+      },
+      {
+        "date": "2017-03-29",
+        "price": 164.44
+      },
+      {
+        "date": "2017-03-30",
+        "price": 164.56
+      },
+      {
+        "date": "2017-03-31",
+        "price": 164.04
+      },
+      {
+        "date": "2017-04-01",
+        "price": 164.33
+      },
+      {
+        "date": "2017-04-02",
+        "price": 164.69
+      },
+      {
+        "date": "2017-04-03",
+        "price": 164.86
+      },
+      {
+        "date": "2017-04-04",
+        "price": 166.65
+      },
+      {
+        "date": "2017-04-05",
+        "price": 166.02
+      },
+      {
+        "date": "2017-04-06",
+        "price": 167.23
+      },
+      {
+        "date": "2017-04-07",
+        "price": 165.24
+      },
+      {
+        "date": "2017-04-08",
+        "price": 163.17
+      },
+      {
+        "date": "2017-04-09",
+        "price": 163
+      },
+      {
+        "date": "2017-04-10",
+        "price": 163.25
+      },
+      {
+        "date": "2017-04-11",
+        "price": 163.44
+      },
+      {
+        "date": "2017-04-12",
+        "price": 162.41
+      },
+      {
+        "date": "2017-04-13",
+        "price": 161.21
+      },
+      {
+        "date": "2017-04-14",
+        "price": 161.36
+      },
+      {
+        "date": "2017-04-15",
+        "price": 161.16
+      },
+      {
+        "date": "2017-04-16",
+        "price": 161.69
+      },
+      {
+        "date": "2017-04-17",
+        "price": 160.91
+      },
+      {
+        "date": "2017-04-18",
+        "price": 161.95
+      },
+      {
+        "date": "2017-04-19",
+        "price": 163.93
+      },
+      {
+        "date": "2017-04-20",
+        "price": 162.8
+      },
+      {
+        "date": "2017-04-21",
+        "price": 160.58
+      },
+      {
+        "date": "2017-04-22",
+        "price": 160.23
+      },
+      {
+        "date": "2017-04-23",
+        "price": 159.29
+      },
+      {
+        "date": "2017-04-24",
+        "price": 159.96
+      },
+      {
+        "date": "2017-04-25",
+        "price": 161.16
+      },
+      {
+        "date": "2017-04-26",
+        "price": 161.04
+      },
+      {
+        "date": "2017-04-27",
+        "price": 159.79
+      },
+      {
+        "date": "2017-04-28",
+        "price": 159.52
+      },
+      {
+        "date": "2017-04-29",
+        "price": 159.45
+      },
+      {
+        "date": "2017-04-30",
+        "price": 159.53
+      },
+      {
+        "date": "2017-05-01",
+        "price": 159.64
+      },
+      {
+        "date": "2017-05-02",
+        "price": 159.11
+      },
+      {
+        "date": "2017-05-03",
+        "price": 160.53
+      },
+      {
+        "date": "2017-05-04",
+        "price": 161.77
+      },
+      {
+        "date": "2017-05-05",
+        "price": 161.4
+      },
+      {
+        "date": "2017-05-06",
+        "price": 160.12
+      },
+      {
+        "date": "2017-05-07",
+        "price": 158.79
+      },
+      {
+        "date": "2017-05-08",
+        "price": 159.04
+      },
+      {
+        "date": "2017-05-09",
+        "price": 156.84
+      },
+      {
+        "date": "2017-05-10",
+        "price": 156.51
+      },
+      {
+        "date": "2017-05-11",
+        "price": 156.53
+      },
+      {
+        "date": "2017-05-12",
+        "price": 154.61
+      },
+      {
+        "date": "2017-05-13",
+        "price": 155.67
+      },
+      {
+        "date": "2017-05-14",
+        "price": 155.72
+      },
+      {
+        "date": "2017-05-15",
+        "price": 156.01
+      },
+      {
+        "date": "2017-05-16",
+        "price": 155.88
+      },
+      {
+        "date": "2017-05-17",
+        "price": 157.55
+      },
+      {
+        "date": "2017-05-18",
+        "price": 157.29
+      }
+    ],
+    "lowest": [
+      {
+        "date": "2016-11-19",
+        "price": 178.88,
+        "shop_name": "Phablets"
+      },
+      {
+        "date": "2016-11-20",
+        "price": 177.87,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2016-11-21",
+        "price": 177.1,
+        "shop_name": "E-deal"
+      },
+      {
+        "date": "2016-11-22",
+        "price": 179.35,
+        "shop_name": "Smartphone-repair"
+      },
+      {
+        "date": "2016-11-23",
+        "price": 179.01,
+        "shop_name": "E-deal"
+      },
+      {
+        "date": "2016-11-24",
+        "price": 180,
+        "shop_name": "Dexter"
+      },
+      {
+        "date": "2016-11-25",
+        "price": 181,
+        "shop_name": "Tokinito"
+      },
+      {
+        "date": "2016-11-26",
+        "price": 179.19,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2016-11-27",
+        "price": 178.5,
+        "shop_name": "GMobile"
+      },
+      {
+        "date": "2016-11-28",
+        "price": 178.48,
+        "shop_name": "Dexter"
+      },
+      {
+        "date": "2016-11-29",
+        "price": 181.7,
+        "shop_name": "Smarties"
+      },
+      {
+        "date": "2016-11-30",
+        "price": 181.8,
+        "shop_name": "Smartphone-repair"
+      },
+      {
+        "date": "2016-12-01",
+        "price": 180.95,
+        "shop_name": "AskAdam"
+      },
+      {
+        "date": "2016-12-02",
+        "price": 180.35,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2016-12-03",
+        "price": 178.74,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2016-12-04",
+        "price": 177.95,
+        "shop_name": "E-deal"
+      },
+      {
+        "date": "2016-12-05",
+        "price": 177.29,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2016-12-06",
+        "price": 179.7,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2016-12-07",
+        "price": 179.1,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2016-12-08",
+        "price": 179.25,
+        "shop_name": "Kaizer Shop"
+      },
+      {
+        "date": "2016-12-09",
+        "price": 179.39,
+        "shop_name": "Dexter"
+      },
+      {
+        "date": "2016-12-10",
+        "price": 178,
+        "shop_name": "Playmobiles"
+      },
+      {
+        "date": "2016-12-11",
+        "price": 176.95,
+        "shop_name": "Smarties"
+      },
+      {
+        "date": "2016-12-12",
+        "price": 176.85,
+        "shop_name": "Playmobiles"
+      },
+      {
+        "date": "2016-12-13",
+        "price": 176.54,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2016-12-14",
+        "price": 177.69,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2016-12-15",
+        "price": 177.5,
+        "shop_name": "Hashtagtrade"
+      },
+      {
+        "date": "2016-12-16",
+        "price": 177.08,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2016-12-17",
+        "price": 176.2,
+        "shop_name": "Playmobiles"
+      },
+      {
+        "date": "2016-12-18",
+        "price": 175.49,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2016-12-19",
+        "price": 175.79,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2016-12-20",
+        "price": 175.89,
+        "shop_name": "Dexter"
+      },
+      {
+        "date": "2016-12-21",
+        "price": 175.78,
+        "shop_name": "Playmobiles"
+      },
+      {
+        "date": "2016-12-22",
+        "price": 175.48,
+        "shop_name": "Playmobiles"
+      },
+      {
+        "date": "2016-12-23",
+        "price": 175.34,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2016-12-24",
+        "price": 174.99,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2016-12-25",
+        "price": 174.89,
+        "shop_name": "Mobilehellas"
+      },
+      {
+        "date": "2016-12-26",
+        "price": 174.89,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2016-12-27",
+        "price": 174.8,
+        "shop_name": "GMobile"
+      },
+      {
+        "date": "2016-12-28",
+        "price": 174.9,
+        "shop_name": "Smarties"
+      },
+      {
+        "date": "2016-12-29",
+        "price": 175,
+        "shop_name": "Electrocrete"
+      },
+      {
+        "date": "2016-12-30",
+        "price": 174.94,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2016-12-31",
+        "price": 174.74,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-01-01",
+        "price": 174.3,
+        "shop_name": "Cellshop"
+      },
+      {
+        "date": "2017-01-02",
+        "price": 174.2,
+        "shop_name": "Cellshop"
+      },
+      {
+        "date": "2017-01-03",
+        "price": 173.79,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2017-01-04",
+        "price": 174,
+        "shop_name": "Emark"
+      },
+      {
+        "date": "2017-01-05",
+        "price": 173.95,
+        "shop_name": "Smartphone-repair"
+      },
+      {
+        "date": "2017-01-06",
+        "price": 173.38,
+        "shop_name": "AskAdam"
+      },
+      {
+        "date": "2017-01-07",
+        "price": 172.6,
+        "shop_name": "Playmobiles"
+      },
+      {
+        "date": "2017-01-08",
+        "price": 172.23,
+        "shop_name": "Eurotelshop"
+      },
+      {
+        "date": "2017-01-09",
+        "price": 172.09,
+        "shop_name": "Playmobiles"
+      },
+      {
+        "date": "2017-01-10",
+        "price": 171.9,
+        "shop_name": "Fair"
+      },
+      {
+        "date": "2017-01-11",
+        "price": 171.48,
+        "shop_name": "Dexter"
+      },
+      {
+        "date": "2017-01-12",
+        "price": 170.82,
+        "shop_name": "Playmobiles"
+      },
+      {
+        "date": "2017-01-13",
+        "price": 169.8,
+        "shop_name": "AskAdam"
+      },
+      {
+        "date": "2017-01-14",
+        "price": 167.95,
+        "shop_name": "AskAdam"
+      },
+      {
+        "date": "2017-01-15",
+        "price": 166.94,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-01-16",
+        "price": 165.65,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-01-17",
+        "price": 164.74,
+        "shop_name": "Mobilehellas"
+      },
+      {
+        "date": "2017-01-18",
+        "price": 164.1,
+        "shop_name": "AskAdam"
+      },
+      {
+        "date": "2017-01-19",
+        "price": 163.89,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2017-01-20",
+        "price": 163.69,
+        "shop_name": "Mobilehellas"
+      },
+      {
+        "date": "2017-01-21",
+        "price": 163.05,
+        "shop_name": "Playmobiles"
+      },
+      {
+        "date": "2017-01-22",
+        "price": 162.49,
+        "shop_name": "Smarties"
+      },
+      {
+        "date": "2017-01-23",
+        "price": 162.34,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2017-01-24",
+        "price": 163.55,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-01-25",
+        "price": 163.18,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2017-01-26",
+        "price": 162.94,
+        "shop_name": "Mobilehellas"
+      },
+      {
+        "date": "2017-01-27",
+        "price": 163.75,
+        "shop_name": "AskAdam"
+      },
+      {
+        "date": "2017-01-28",
+        "price": 162.3,
+        "shop_name": "Kinitomania"
+      },
+      {
+        "date": "2017-01-29",
+        "price": 161.25,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-01-30",
+        "price": 160.35,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-01-31",
+        "price": 159.39,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-02-01",
+        "price": 158.5,
+        "shop_name": "Dexter"
+      },
+      {
+        "date": "2017-02-02",
+        "price": 157.2,
+        "shop_name": "E-deal"
+      },
+      {
+        "date": "2017-02-03",
+        "price": 156.64,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2017-02-04",
+        "price": 155.85,
+        "shop_name": "HellasPhone"
+      },
+      {
+        "date": "2017-02-05",
+        "price": 155.5,
+        "shop_name": "Eurotelshop"
+      },
+      {
+        "date": "2017-02-06",
+        "price": 155.48,
+        "shop_name": "Eurotelshop"
+      },
+      {
+        "date": "2017-02-07",
+        "price": 155.8,
+        "shop_name": "Smartphone-repair"
+      },
+      {
+        "date": "2017-02-08",
+        "price": 155.43,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-02-09",
+        "price": 154.74,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-02-10",
+        "price": 154.08,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-02-11",
+        "price": 153.3,
+        "shop_name": "Playmobiles"
+      },
+      {
+        "date": "2017-02-12",
+        "price": 153.78,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-02-13",
+        "price": 153.59,
+        "shop_name": "Smarties"
+      },
+      {
+        "date": "2017-02-14",
+        "price": 153.49,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-02-15",
+        "price": 152.69,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-02-16",
+        "price": 151.94,
+        "shop_name": "E-deal"
+      },
+      {
+        "date": "2017-02-17",
+        "price": 151.86,
+        "shop_name": "Playmobiles"
+      },
+      {
+        "date": "2017-02-18",
+        "price": 151.79,
+        "shop_name": "Smarties"
+      },
+      {
+        "date": "2017-02-20",
+        "price": 151.7,
+        "shop_name": "GMobile"
+      },
+      {
+        "date": "2017-02-21",
+        "price": 151.74,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-02-22",
+        "price": 151.28,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-02-23",
+        "price": 150.49,
+        "shop_name": "Playmobiles"
+      },
+      {
+        "date": "2017-02-24",
+        "price": 149.89,
+        "shop_name": "GMobile"
+      },
+      {
+        "date": "2017-02-25",
+        "price": 149.64,
+        "shop_name": "HellasPhone"
+      },
+      {
+        "date": "2017-02-26",
+        "price": 148.99,
+        "shop_name": "Playmobiles"
+      },
+      {
+        "date": "2017-02-27",
+        "price": 149,
+        "shop_name": "Eurotelshop"
+      },
+      {
+        "date": "2017-02-28",
+        "price": 149.5,
+        "shop_name": "Kdmobile"
+      },
+      {
+        "date": "2017-03-01",
+        "price": 151.69,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2017-03-02",
+        "price": 151.49,
+        "shop_name": "Dexter"
+      },
+      {
+        "date": "2017-03-03",
+        "price": 150.73,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-03-04",
+        "price": 150.14,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-03-05",
+        "price": 149.88,
+        "shop_name": "Dexter"
+      },
+      {
+        "date": "2017-03-06",
+        "price": 149.79,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2017-03-07",
+        "price": 149.73,
+        "shop_name": "Gxmobile"
+      },
+      {
+        "date": "2017-03-08",
+        "price": 149.54,
+        "shop_name": "Smarties"
+      },
+      {
+        "date": "2017-03-09",
+        "price": 149.34,
+        "shop_name": "Gxmobile"
+      },
+      {
+        "date": "2017-03-10",
+        "price": 148.45,
+        "shop_name": "Mobilehellas"
+      },
+      {
+        "date": "2017-03-11",
+        "price": 147.4,
+        "shop_name": "AskAdam"
+      },
+      {
+        "date": "2017-03-12",
+        "price": 146.79,
+        "shop_name": "Gxmobile"
+      },
+      {
+        "date": "2017-03-13",
+        "price": 145.45,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-03-14",
+        "price": 144.77,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-03-15",
+        "price": 144.3,
+        "shop_name": "AskAdam"
+      },
+      {
+        "date": "2017-03-16",
+        "price": 144.37,
+        "shop_name": "Gxmobile"
+      },
+      {
+        "date": "2017-03-17",
+        "price": 144.05,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-03-18",
+        "price": 143.6,
+        "shop_name": "Gxmobile"
+      },
+      {
+        "date": "2017-03-19",
+        "price": 143.39,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2017-03-20",
+        "price": 144.19,
+        "shop_name": "Mobilecorner"
+      },
+      {
+        "date": "2017-03-21",
+        "price": 144.68,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2017-03-22",
+        "price": 143.96,
+        "shop_name": "E-deal"
+      },
+      {
+        "date": "2017-03-23",
+        "price": 143.79,
+        "shop_name": "Smarties"
+      },
+      {
+        "date": "2017-03-24",
+        "price": 143.65,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-03-25",
+        "price": 142.96,
+        "shop_name": "E-deal"
+      },
+      {
+        "date": "2017-03-26",
+        "price": 142.89,
+        "shop_name": "Smarties"
+      },
+      {
+        "date": "2017-03-27",
+        "price": 142.88,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2017-03-28",
+        "price": 142.89,
+        "shop_name": "Smartphone Store"
+      },
+      {
+        "date": "2017-03-29",
+        "price": 142.89,
+        "shop_name": "Smarties"
+      },
+      {
+        "date": "2017-03-30",
+        "price": 142.75,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-03-31",
+        "price": 142.2,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-04-01",
+        "price": 141.55,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-04-02",
+        "price": 140.93,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-04-03",
+        "price": 140.43,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-04-04",
+        "price": 142.29,
+        "shop_name": "Smarties"
+      },
+      {
+        "date": "2017-04-05",
+        "price": 143,
+        "shop_name": "Smartphone-repair"
+      },
+      {
+        "date": "2017-04-06",
+        "price": 143.77,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-04-07",
+        "price": 143.16,
+        "shop_name": "E-deal"
+      },
+      {
+        "date": "2017-04-08",
+        "price": 142.85,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-04-09",
+        "price": 142.14,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-04-10",
+        "price": 141.5,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-04-11",
+        "price": 140.96,
+        "shop_name": "E-deal"
+      },
+      {
+        "date": "2017-04-12",
+        "price": 140.8,
+        "shop_name": "AGM"
+      },
+      {
+        "date": "2017-04-13",
+        "price": 140.64,
+        "shop_name": "Smartphone-repair"
+      },
+      {
+        "date": "2017-04-14",
+        "price": 143,
+        "shop_name": "Electrocrete"
+      },
+      {
+        "date": "2017-04-15",
+        "price": 142.81,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-04-16",
+        "price": 142.29,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-04-17",
+        "price": 141.87,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-04-18",
+        "price": 141.46,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-04-19",
+        "price": 141.1,
+        "shop_name": "Phonegallery Store"
+      },
+      {
+        "date": "2017-04-20",
+        "price": 142.19,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-04-21",
+        "price": 141.9,
+        "shop_name": "Smartphone-repair"
+      },
+      {
+        "date": "2017-04-22",
+        "price": 141.69,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2017-04-23",
+        "price": 141.32,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-04-24",
+        "price": 140.9,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-04-25",
+        "price": 140.5,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-04-26",
+        "price": 141.29,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-04-27",
+        "price": 140.79,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-04-28",
+        "price": 140.59,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-04-29",
+        "price": 140.18,
+        "shop_name": "Gxmobile"
+      },
+      {
+        "date": "2017-04-30",
+        "price": 139.59,
+        "shop_name": "Gxmobile"
+      },
+      {
+        "date": "2017-05-01",
+        "price": 139.25,
+        "shop_name": "Dexter"
+      },
+      {
+        "date": "2017-05-02",
+        "price": 138.87,
+        "shop_name": "Gxmobile"
+      },
+      {
+        "date": "2017-05-03",
+        "price": 140,
+        "shop_name": "GMobile"
+      },
+      {
+        "date": "2017-05-04",
+        "price": 140.59,
+        "shop_name": "JusTech"
+      },
+      {
+        "date": "2017-05-05",
+        "price": 140.58,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-05-06",
+        "price": 141.8,
+        "shop_name": "Top-Store"
+      },
+      {
+        "date": "2017-05-07",
+        "price": 141.78,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-05-08",
+        "price": 141.29,
+        "shop_name": "Smarties"
+      },
+      {
+        "date": "2017-05-09",
+        "price": 140.96,
+        "shop_name": "E-deal"
+      },
+      {
+        "date": "2017-05-10",
+        "price": 140.65,
+        "shop_name": "CitisShop"
+      },
+      {
+        "date": "2017-05-11",
+        "price": 140.29,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-05-12",
+        "price": 139.6,
+        "shop_name": "Smartphone-repair"
+      },
+      {
+        "date": "2017-05-13",
+        "price": 138.63,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-05-14",
+        "price": 138.1,
+        "shop_name": "Smartphone-repair"
+      },
+      {
+        "date": "2017-05-15",
+        "price": 137.64,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-05-16",
+        "price": 137.35,
+        "shop_name": "Smartphone-repair"
+      },
+      {
+        "date": "2017-05-17",
+        "price": 137.5,
+        "shop_name": "Phonegallery"
+      },
+      {
+        "date": "2017-05-18",
+        "price": 137.4,
+        "shop_name": "Top-Store"
+      }
+    ]
+  }
+}
